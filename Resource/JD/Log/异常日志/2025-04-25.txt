@@ -1,0 +1,6 @@
+2025/4/25 17:37:41
+检定出错,错误编号：999－10001　
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 74
+

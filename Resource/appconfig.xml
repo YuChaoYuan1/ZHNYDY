@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <group name="模拟终端配置">
+    <setting name="Server1IP" type="string">
+      <value>192.168.100.101</value>
+    </setting>
+    <setting name="Server1Port" type="int">
+      <value>10000</value>
+      <validation min="1" max="65535" required="false" />
+    </setting>
+    <setting name="Server2IP" type="string">
+      <value>192.168.100.102</value>
+    </setting>
+    <setting name="Server2Port" type="int">
+      <value>10000</value>
+      <validation min="1" max="65535" required="false" />
+    </setting>
+  </group>
+  <group name="负荷识别配置">
+    <setting name="物联表" type="string">
+      <value>000000000120|COM75</value>
+    </setting>
+    <setting name="电表1" type="string">
+      <value>202410220159|COM79|115200,e,8,1|电饭煲</value>
+    </setting>
+    <setting name="电表2" type="string">
+      <value>000000000003|COM78|2400,e,8,1|冰箱|微波炉</value>
+    </setting>
+    <setting name="电表3" type="string">
+      <value>202410220157|COM80|115200,e,8,1|电视机</value>
+    </setting>
+    <setting name="电表4" type="string">
+      <value>202410220158|COM81|115200,e,8,1|变频空调</value>
+    </setting>
+    <setting name="电表5" type="string">
+      <value>202410220160|COM82|115200,e,8,1|热水器</value>
+    </setting>
+  </group>
+  <group name="基线负荷">
+    <setting name="是否定值" type="bool">
+      <value>true</value>
+    </setting>
+    <setting name="定值" type="string">
+      <value>150</value>
+    </setting>
+  </group>
+  <group name="模拟空调">
+    <setting name="IPPort" type="string">
+      <value>192.168.100.60|503</value>
+    </setting>
+  </group>
+  <group name="安全设置">
+    <setting name="EnableSSL" type="bool">
+      <value>true</value>
+    </setting>
+  </group>
+</configuration>

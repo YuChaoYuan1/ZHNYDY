@@ -1,0 +1,1763 @@
+2025/4/16 0:00:14
+接收：
+无帧头68
+
+2025/4/16 0:00:36
+接收：
+无帧头68
+
+2025/4/16 0:00:37
+对时无回复！
+
+2025/4/16 0:00:58
+接收：
+无帧头68
+
+2025/4/16 0:01:20
+接收：
+无帧头68
+
+2025/4/16 0:01:42
+接收：
+无帧头68
+
+2025/4/16 0:02:04
+接收：
+无帧头68
+
+2025/4/16 0:04:27
+接收：
+无帧头68
+
+2025/4/16 0:04:49
+接收：
+无帧头68
+
+2025/4/16 0:09:12
+接收：
+无帧头68
+
+2025/4/16 0:09:32
+接收：
+无帧头68
+
+2025/4/16 0:09:53
+接收：
+无帧头68
+
+2025/4/16 0:10:15
+接收：
+无帧头68
+
+2025/4/16 0:11:51
+接收：
+无帧头68
+
+2025/4/16 0:12:13
+接收：
+无帧头68
+
+2025/4/16 0:12:13
+终端3无回复消息！
+
+2025/4/16 0:12:36
+接收：
+无帧头68
+
+2025/4/16 0:12:57
+接收：
+无帧头68
+
+2025/4/16 0:12:58
+终端3无回复消息！
+
+2025/4/16 0:12:58
+终端3无回复消息！
+
+2025/4/16 0:12:58
+终端3无回复消息！
+
+2025/4/16 0:13:20
+接收：
+无帧头68
+
+2025/4/16 0:13:41
+接收：
+无帧头68
+
+2025/4/16 0:13:42
+终端3无回复消息！
+
+2025/4/16 0:14:04
+接收：
+无帧头68
+
+2025/4/16 0:14:26
+接收：
+无帧头68
+
+2025/4/16 0:14:26
+终端3无回复消息！
+
+2025/4/16 0:14:48
+接收：
+无帧头68
+
+2025/4/16 0:15:10
+接收：
+无帧头68
+
+2025/4/16 0:15:10
+终端3无回复消息！
+
+2025/4/16 0:15:34
+接收：
+无帧头68
+
+2025/4/16 0:15:55
+接收：
+无帧头68
+
+2025/4/16 0:16:16
+接收：
+无帧头68
+
+2025/4/16 0:16:36
+接收：
+无帧头68
+
+2025/4/16 0:16:37
+对时无回复！
+
+2025/4/16 0:16:57
+接收：
+无帧头68
+
+2025/4/16 0:17:19
+接收：
+无帧头68
+
+2025/4/16 0:17:42
+接收：
+无帧头68
+
+2025/4/16 0:18:04
+接收：
+无帧头68
+
+2025/4/16 0:18:27
+接收：
+无帧头68
+
+2025/4/16 0:18:48
+接收：
+无帧头68
+
+2025/4/16 0:19:10
+接收：
+无帧头68
+
+2025/4/16 0:19:32
+接收：
+无帧头68
+
+2025/4/16 0:19:54
+接收：
+无帧头68
+
+2025/4/16 0:20:16
+接收：
+无帧头68
+
+2025/4/16 0:20:39
+接收：
+无帧头68
+
+2025/4/16 0:21:01
+接收：
+无帧头68
+
+2025/4/16 0:21:24
+接收：
+无帧头68
+
+2025/4/16 0:21:46
+接收：
+无帧头68
+
+2025/4/16 0:22:09
+接收：
+无帧头68
+
+2025/4/16 0:22:31
+接收：
+无帧头68
+
+2025/4/16 0:22:55
+接收：
+无帧头68
+
+2025/4/16 0:23:18
+接收：
+无帧头68
+
+2025/4/16 0:23:41
+接收：
+无帧头68
+
+2025/4/16 0:24:03
+接收：
+无帧头68
+
+2025/4/16 0:24:25
+接收：
+无帧头68
+
+2025/4/16 0:24:46
+接收：
+无帧头68
+
+2025/4/16 0:25:09
+接收：
+无帧头68
+
+2025/4/16 0:25:31
+接收：
+无帧头68
+
+2025/4/16 0:25:32
+批量执行失败,sql语句为:insert into T_TMP_METER_COMMUNICATION (METER_ID,MD_DEVICE_ID,MD_EPITOPE,MD_PROJECT_NO,MD_PROJECT_NAME,MD_VALUE,MD_DEVICE_ID,MD_RESULT) values ('7439664312008828675','801','3','01013','组合参数读取与参数设置','^合格^^^不合格^不合格^不合格^^不合格^','^','不合格')
+
+2025/4/16 0:27:11
+接收：
+无帧头68
+
+2025/4/16 0:27:34
+接收：
+无帧头68
+
+2025/4/16 0:27:34
+终端3无回复消息！
+
+2025/4/16 0:27:58
+接收：
+无帧头68
+
+2025/4/16 0:28:21
+接收：
+无帧头68
+
+2025/4/16 0:28:21
+终端3无回复消息！
+
+2025/4/16 0:28:21
+终端3无回复消息！
+
+2025/4/16 0:28:22
+终端3无回复消息！
+
+2025/4/16 0:28:45
+接收：
+无帧头68
+
+2025/4/16 0:29:08
+接收：
+无帧头68
+
+2025/4/16 0:29:09
+终端3无回复消息！
+
+2025/4/16 0:29:32
+接收：
+无帧头68
+
+2025/4/16 0:29:55
+接收：
+无帧头68
+
+2025/4/16 0:29:56
+终端3无回复消息！
+
+2025/4/16 0:30:19
+接收：
+无帧头68
+
+2025/4/16 0:30:42
+接收：
+无帧头68
+
+2025/4/16 0:30:43
+终端3无回复消息！
+
+2025/4/16 0:31:09
+接收：
+无帧头68
+
+2025/4/16 0:31:32
+接收：
+无帧头68
+
+2025/4/16 0:31:56
+接收：
+无帧头68
+
+2025/4/16 0:32:20
+接收：
+无帧头68
+
+2025/4/16 0:32:20
+对时无回复！
+
+2025/4/16 0:32:44
+接收：
+无帧头68
+
+2025/4/16 0:33:07
+接收：
+无帧头68
+
+2025/4/16 0:33:31
+接收：
+无帧头68
+
+2025/4/16 0:33:54
+接收：
+无帧头68
+
+2025/4/16 0:34:18
+接收：
+无帧头68
+
+2025/4/16 0:34:41
+接收：
+无帧头68
+
+2025/4/16 0:35:05
+接收：
+无帧头68
+
+2025/4/16 0:35:28
+接收：
+无帧头68
+
+2025/4/16 0:36:37
+接收：
+无帧头68
+
+2025/4/16 0:37:46
+接收：
+无帧头68
+
+2025/4/16 0:38:55
+接收：
+无帧头68
+
+2025/4/16 0:40:03
+接收：
+无帧头68
+
+2025/4/16 0:41:12
+接收：
+无帧头68
+
+2025/4/16 0:42:20
+接收：
+无帧头68
+
+2025/4/16 0:43:29
+接收：
+无帧头68
+
+2025/4/16 0:44:37
+接收：
+无帧头68
+
+2025/4/16 0:45:45
+接收：
+无帧头68
+
+2025/4/16 0:46:53
+接收：
+无帧头68
+
+2025/4/16 0:47:16
+接收：
+无帧头68
+
+2025/4/16 0:47:38
+接收：
+无帧头68
+
+2025/4/16 0:49:17
+接收：
+无帧头68
+
+2025/4/16 0:49:39
+接收：
+无帧头68
+
+2025/4/16 0:49:40
+终端3无回复消息！
+
+2025/4/16 0:50:03
+接收：
+无帧头68
+
+2025/4/16 0:50:25
+接收：
+无帧头68
+
+2025/4/16 0:50:26
+终端3无回复消息！
+
+2025/4/16 0:50:26
+终端3无回复消息！
+
+2025/4/16 0:50:26
+终端3无回复消息！
+
+2025/4/16 0:50:49
+接收：
+无帧头68
+
+2025/4/16 0:51:12
+接收：
+无帧头68
+
+2025/4/16 0:51:12
+终端3无回复消息！
+
+2025/4/16 0:51:35
+接收：
+无帧头68
+
+2025/4/16 0:51:57
+接收：
+无帧头68
+
+2025/4/16 0:51:57
+终端3无回复消息！
+
+2025/4/16 0:52:20
+接收：
+无帧头68
+
+2025/4/16 0:52:43
+接收：
+无帧头68
+
+2025/4/16 0:52:44
+终端3无回复消息！
+
+2025/4/16 0:53:09
+接收：
+无帧头68
+
+2025/4/16 0:53:32
+接收：
+无帧头68
+
+2025/4/16 0:53:55
+接收：
+无帧头68
+
+2025/4/16 0:54:17
+接收：
+无帧头68
+
+2025/4/16 0:54:17
+对时无回复！
+
+2025/4/16 0:54:45
+接收：
+无帧头68
+
+2025/4/16 0:55:07
+接收：
+无帧头68
+
+2025/4/16 0:56:45
+接收：
+无帧头68
+
+2025/4/16 0:57:07
+接收：
+无帧头68
+
+2025/4/16 0:57:07
+终端3无回复消息！
+
+2025/4/16 0:57:30
+接收：
+无帧头68
+
+2025/4/16 0:57:52
+接收：
+无帧头68
+
+2025/4/16 0:57:52
+终端3无回复消息！
+
+2025/4/16 0:57:52
+终端3无回复消息！
+
+2025/4/16 0:57:52
+终端3无回复消息！
+
+2025/4/16 0:58:15
+接收：
+无帧头68
+
+2025/4/16 0:58:37
+接收：
+无帧头68
+
+2025/4/16 0:58:37
+终端3无回复消息！
+
+2025/4/16 0:59:00
+接收：
+无帧头68
+
+2025/4/16 0:59:22
+接收：
+无帧头68
+
+2025/4/16 0:59:22
+终端3无回复消息！
+
+2025/4/16 0:59:45
+接收：
+无帧头68
+
+2025/4/16 1:00:07
+接收：
+无帧头68
+
+2025/4/16 1:00:07
+终端3无回复消息！
+
+2025/4/16 1:00:33
+接收：
+无帧头68
+
+2025/4/16 1:00:55
+接收：
+无帧头68
+
+2025/4/16 1:01:18
+接收：
+无帧头68
+
+2025/4/16 1:01:40
+接收：
+无帧头68
+
+2025/4/16 1:01:41
+对时无回复！
+
+2025/4/16 1:02:03
+接收：
+无帧头68
+
+2025/4/16 1:02:25
+接收：
+无帧头68
+
+2025/4/16 1:02:49
+接收：
+无帧头68
+
+2025/4/16 1:03:11
+接收：
+无帧头68
+
+2025/4/16 1:03:34
+接收：
+无帧头68
+
+2025/4/16 1:03:56
+接收：
+无帧头68
+
+2025/4/16 1:04:19
+接收：
+无帧头68
+
+2025/4/16 1:04:41
+接收：
+无帧头68
+
+2025/4/16 1:04:42
+对时无回复！
+
+2025/4/16 1:05:04
+接收：
+无帧头68
+
+2025/4/16 1:05:26
+接收：
+无帧头68
+
+2025/4/16 1:05:48
+接收：
+无帧头68
+
+2025/4/16 1:06:10
+接收：
+无帧头68
+
+2025/4/16 1:10:34
+接收：
+无帧头68
+
+2025/4/16 1:10:56
+接收：
+无帧头68
+
+2025/4/16 1:11:19
+接收：
+无帧头68
+
+2025/4/16 1:11:40
+接收：
+无帧头68
+
+2025/4/16 1:13:17
+接收：
+无帧头68
+
+2025/4/16 1:13:38
+接收：
+无帧头68
+
+2025/4/16 1:13:39
+终端3无回复消息！
+
+2025/4/16 1:14:01
+接收：
+无帧头68
+
+2025/4/16 1:14:23
+接收：
+无帧头68
+
+2025/4/16 1:14:23
+终端3无回复消息！
+
+2025/4/16 1:14:23
+终端3无回复消息！
+
+2025/4/16 1:14:23
+终端3无回复消息！
+
+2025/4/16 1:14:45
+接收：
+无帧头68
+
+2025/4/16 1:15:07
+接收：
+无帧头68
+
+2025/4/16 1:15:07
+终端3无回复消息！
+
+2025/4/16 1:15:29
+接收：
+无帧头68
+
+2025/4/16 1:15:51
+接收：
+无帧头68
+
+2025/4/16 1:15:51
+终端3无回复消息！
+
+2025/4/16 1:16:13
+接收：
+无帧头68
+
+2025/4/16 1:16:35
+接收：
+无帧头68
+
+2025/4/16 1:16:35
+终端3无回复消息！
+
+2025/4/16 1:17:00
+接收：
+无帧头68
+
+2025/4/16 1:17:22
+接收：
+无帧头68
+
+2025/4/16 1:17:44
+接收：
+无帧头68
+
+2025/4/16 1:18:05
+接收：
+无帧头68
+
+2025/4/16 1:18:06
+对时无回复！
+
+2025/4/16 1:18:27
+接收：
+无帧头68
+
+2025/4/16 1:18:49
+接收：
+无帧头68
+
+2025/4/16 1:19:11
+接收：
+无帧头68
+
+2025/4/16 1:19:33
+接收：
+无帧头68
+
+2025/4/16 1:21:09
+接收：
+无帧头68
+
+2025/4/16 1:21:31
+接收：
+无帧头68
+
+2025/4/16 1:21:31
+终端3无回复消息！
+
+2025/4/16 1:21:53
+接收：
+无帧头68
+
+2025/4/16 1:22:14
+接收：
+无帧头68
+
+2025/4/16 1:22:14
+终端3无回复消息！
+
+2025/4/16 1:22:14
+终端3无回复消息！
+
+2025/4/16 1:22:14
+终端3无回复消息！
+
+2025/4/16 1:22:36
+接收：
+无帧头68
+
+2025/4/16 1:22:57
+接收：
+无帧头68
+
+2025/4/16 1:22:57
+终端3无回复消息！
+
+2025/4/16 1:23:19
+接收：
+无帧头68
+
+2025/4/16 1:23:40
+接收：
+无帧头68
+
+2025/4/16 1:23:40
+终端3无回复消息！
+
+2025/4/16 1:24:02
+接收：
+无帧头68
+
+2025/4/16 1:24:23
+接收：
+无帧头68
+
+2025/4/16 1:24:23
+终端3无回复消息！
+
+2025/4/16 1:24:48
+接收：
+无帧头68
+
+2025/4/16 1:25:09
+接收：
+无帧头68
+
+2025/4/16 1:25:31
+接收：
+无帧头68
+
+2025/4/16 1:25:53
+接收：
+无帧头68
+
+2025/4/16 1:25:53
+对时无回复！
+
+2025/4/16 1:26:14
+接收：
+无帧头68
+
+2025/4/16 1:26:36
+接收：
+无帧头68
+
+2025/4/16 1:26:57
+接收：
+无帧头68
+
+2025/4/16 1:27:18
+接收：
+无帧头68
+
+2025/4/16 1:27:40
+接收：
+无帧头68
+
+2025/4/16 1:28:02
+接收：
+无帧头68
+
+2025/4/16 1:28:23
+接收：
+无帧头68
+
+2025/4/16 1:28:44
+接收：
+无帧头68
+
+2025/4/16 1:29:07
+接收：
+无帧头68
+
+2025/4/16 1:29:28
+接收：
+无帧头68
+
+2025/4/16 1:29:50
+接收：
+无帧头68
+
+2025/4/16 1:30:11
+接收：
+无帧头68
+
+2025/4/16 1:30:34
+接收：
+无帧头68
+
+2025/4/16 1:30:55
+接收：
+无帧头68
+
+2025/4/16 1:33:18
+接收：
+无帧头68
+
+2025/4/16 1:33:40
+接收：
+无帧头68
+
+2025/4/16 1:34:18
+接收：
+无帧头68
+
+2025/4/16 1:34:40
+接收：
+无帧头68
+
+2025/4/16 1:35:02
+接收：
+无帧头68
+
+2025/4/16 1:35:24
+接收：
+无帧头68
+
+2025/4/16 1:51:43
+接收：
+无帧头68
+
+2025/4/16 1:52:07
+接收：
+无帧头68
+
+2025/4/16 1:52:32
+接收：
+无帧头68
+
+2025/4/16 1:52:57
+接收：
+无帧头68
+
+2025/4/16 1:52:57
+加密机连接失败，返回1106
+
+2025/4/16 1:53:22
+接收：
+无帧头68
+
+2025/4/16 1:53:46
+接收：
+无帧头68
+
+2025/4/16 1:54:11
+接收：
+无帧头68
+
+2025/4/16 1:54:35
+接收：
+无帧头68
+
+2025/4/16 1:54:36
+对时无回复！
+
+2025/4/16 1:54:36
+System.OutOfMemoryException: 引发类型为“System.OutOfMemoryException”的异常。
+   在 System.Threading.Thread.StartInternal(IPrincipal principal, StackCrawlMark& stackMark)
+   在 System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   在 System.Threading.Thread.Start()
+   在 LYZD.ViewModel.CheckController.MulitThread.SocketThread.Start() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\MulitThread\SocketThread.cs:行号 54
+   在 LYZD.ViewModel.CheckController.MulitThread.SocketThreadManager.Start() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\MulitThread\SocketThreadManager.cs:行号 56
+   在 LYZD.ViewModel.CheckController.TerminalProtocalAdapter698.WriteData(Byte[][] p_byt_SetData, Dictionary`2 dicData, Int32 MaxWaitSeconds) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\TerminalProtocalAdapter698.cs:行号 297
+   在 LYZD.ViewModel.CheckController.VerifyBase.SetMingSessionData_698(String cTaskData, String itemName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 2633
+   在 LYZD.Verify.AccurateMeasurementTest.PowerFactorOver.Verify()
+
+2025/4/16 1:54:37
+批量执行失败,sql语句为:delete from T_TMP_METER_COMMUNICATION where  MD_PROJECT_NO = '13012' and MD_EPITOPE =3
+
+2025/4/16 1:54:37
+查询数据库失败,sql语句为:select * from T_TMP_METER_COMMUNICATION where METER_ID  = '7439664312008828675'
+
+2025/4/16 1:54:37
+批量执行失败,sql语句为:update T_TMP_METER_INFO set MD_RESULT ='合格' where METER_ID  = '7439664312008828675'
+
+2025/4/16 1:54:37
+获取数据库中相关内容数量失败,sql语句为:select count(*) from TIME_STATISTICS where PARA_NO = '13012' and PARA_VALUE is null and METER_INFO ='220|0.015-0.075(6)A|三相四线|10000(10000)' 
+
+2025/4/16 1:54:37
+插入sql语句失败:超出系统资源。
+
+2025/4/16 1:55:01
+接收：
+无帧头68
+
+2025/4/16 1:55:26
+接收：
+无帧头68
+
+2025/4/16 8:48:39
+接收：
+无帧头68
+
+2025/4/16 8:59:01
+接收：
+无帧头68
+
+2025/4/16 8:59:01
+接收：
+无帧头68
+
+2025/4/16 8:59:02
+接收：
+无帧头68
+
+2025/4/16 8:59:02
+接收：
+无帧头68
+
+2025/4/16 8:59:03
+接收：
+无帧头68
+
+2025/4/16 8:59:03
+接收：
+无帧头68
+
+2025/4/16 8:59:03
+接收：
+无帧头68
+
+2025/4/16 8:59:03
+接收：
+无帧头68
+
+2025/4/16 8:59:04
+接收：
+无帧头68
+
+2025/4/16 8:59:04
+接收：
+无帧头68
+
+2025/4/16 8:59:04
+接收：
+无帧头68
+
+2025/4/16 8:59:04
+接收：
+无帧头68
+
+2025/4/16 8:59:05
+对时无回复！
+
+2025/4/16 8:59:06
+接收：
+无帧头68
+
+2025/4/16 8:59:06
+接收：
+无帧头68
+
+2025/4/16 8:59:10
+接收：
+无帧头68
+
+2025/4/16 8:59:10
+接收：
+无帧头68
+
+2025/4/16 8:59:11
+接收：
+无帧头68
+
+2025/4/16 8:59:11
+接收：
+无帧头68
+
+2025/4/16 8:59:12
+接收：
+无帧头68
+
+2025/4/16 8:59:12
+接收：
+无帧头68
+
+2025/4/16 8:59:14
+接收：
+无帧头68
+
+2025/4/16 8:59:14
+接收：
+无帧头68
+
+2025/4/16 8:59:16
+接收：
+无帧头68
+
+2025/4/16 8:59:16
+接收：
+无帧头68
+
+2025/4/16 9:58:48
+批量执行失败,sql语句为:insert into T_TMP_METER_COMMUNICATION (METER_ID,MD_DEVICE_ID,MD_EPITOPE,MD_PROJECT_NO,MD_PROJECT_NAME,MD_VALUE,MD_DEVICE_ID,MD_RESULT) values ('7439664312008828675','801','3','01013','组合参数读取与参数设置','^合格^^^合格^合格^合格^^合格^','^','合格')
+
+2025/4/16 10:15:38
+接收：
+无帧头68
+
+2025/4/16 10:15:58
+接收：
+无帧头68
+
+2025/4/16 10:16:19
+接收：
+无帧头68
+
+2025/4/16 10:16:40
+接收：
+无帧头68
+
+2025/4/16 10:16:41
+对时无回复！
+
+2025/4/16 10:22:01
+接收：
+无帧头68
+
+2025/4/16 10:22:21
+接收：
+无帧头68
+
+2025/4/16 10:25:31
+接收：
+无帧头68
+
+2025/4/16 10:25:52
+接收：
+无帧头68
+
+2025/4/16 10:25:52
+终端3无回复消息！
+
+2025/4/16 10:25:58
+接收：
+无帧头68
+
+2025/4/16 10:25:58
+接收：
+无帧头68
+
+2025/4/16 10:25:58
+终端3无回复消息！
+
+2025/4/16 10:25:58
+终端3无回复消息！
+
+2025/4/16 10:25:58
+终端3无回复消息！
+
+2025/4/16 10:25:58
+接收：
+无帧头68
+
+2025/4/16 10:25:58
+接收：
+无帧头68
+
+2025/4/16 10:25:59
+终端3无回复消息！
+
+2025/4/16 10:25:59
+接收：
+无帧头68
+
+2025/4/16 10:25:59
+接收：
+无帧头68
+
+2025/4/16 10:25:59
+终端3无回复消息！
+
+2025/4/16 10:26:00
+接收：
+无帧头68
+
+2025/4/16 10:26:00
+接收：
+无帧头68
+
+2025/4/16 10:26:00
+接收：
+无帧头68
+
+2025/4/16 10:26:00
+接收：
+无帧头68
+
+2025/4/16 10:26:01
+接收：
+无帧头68
+
+2025/4/16 10:26:01
+接收：
+无帧头68
+
+2025/4/16 10:26:03
+接收：
+无帧头68
+
+2025/4/16 10:26:03
+接收：
+无帧头68
+
+2025/4/16 10:26:04
+接收：
+无帧头68
+
+2025/4/16 10:26:04
+接收：
+无帧头68
+
+2025/4/16 10:26:04
+接收：
+无帧头68
+
+2025/4/16 10:26:04
+接收：
+无帧头68
+
+2025/4/16 10:26:05
+接收：
+无帧头68
+
+2025/4/16 10:26:05
+接收：
+无帧头68
+
+2025/4/16 10:26:06
+接收：
+无帧头68
+
+2025/4/16 10:26:06
+接收：
+无帧头68
+
+2025/4/16 10:26:06
+接收：
+无帧头68
+
+2025/4/16 10:26:06
+接收：
+无帧头68
+
+2025/4/16 10:26:07
+接收：
+无帧头68
+
+2025/4/16 10:26:07
+接收：
+无帧头68
+
+2025/4/16 10:26:07
+对时无回复！
+
+2025/4/16 10:26:10
+接收：
+无帧头68
+
+2025/4/16 10:26:10
+接收：
+无帧头68
+
+2025/4/16 15:21:44
+接收：
+无帧头68
+
+2025/4/16 15:21:44
+接收：
+无帧头68
+
+2025/4/16 15:21:45
+终端3无回复消息！
+
+2025/4/16 15:21:45
+接收：
+无帧头68
+
+2025/4/16 15:21:45
+接收：
+无帧头68
+
+2025/4/16 15:21:45
+终端3无回复消息！
+
+2025/4/16 15:21:45
+终端3无回复消息！
+
+2025/4/16 15:21:45
+终端3无回复消息！
+
+2025/4/16 15:21:46
+接收：
+无帧头68
+
+2025/4/16 15:21:46
+接收：
+无帧头68
+
+2025/4/16 15:21:46
+终端3无回复消息！
+
+2025/4/16 15:21:46
+接收：
+无帧头68
+
+2025/4/16 15:21:46
+接收：
+无帧头68
+
+2025/4/16 15:21:47
+终端3无回复消息！
+
+2025/4/16 15:21:47
+接收：
+无帧头68
+
+2025/4/16 15:21:47
+接收：
+无帧头68
+
+2025/4/16 15:21:47
+接收：
+无帧头68
+
+2025/4/16 15:21:47
+接收：
+无帧头68
+
+2025/4/16 15:21:48
+接收：
+无帧头68
+
+2025/4/16 15:21:48
+接收：
+无帧头68
+
+2025/4/16 15:21:48
+对时无回复！
+
+2025/4/16 15:21:48
+接收：
+无帧头68
+
+2025/4/16 15:21:48
+接收：
+无帧头68
+
+2025/4/16 15:40:33
+标准表第1次联机失败
+
+2025/4/16 15:40:36
+标准表联机失败
+
+2025/4/16 15:40:38
+功率源第1次联机失败
+
+2025/4/16 15:40:39
+功率源联机失败
+
+2025/4/16 15:40:51
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】
+
+2025/4/16 15:44:44
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify()
+
+2025/4/16 15:48:38
+接收：
+无帧头68
+
+2025/4/16 15:49:04
+接收：
+无帧头68
+
+2025/4/16 15:49:05
+终端5无回复消息！
+
+2025/4/16 15:49:31
+接收：
+无帧头68
+
+2025/4/16 15:49:59
+接收：
+无帧头68
+
+2025/4/16 15:49:59
+终端5无回复消息！
+
+2025/4/16 15:49:59
+终端5无回复消息！
+
+2025/4/16 15:49:59
+终端5无回复消息！
+
+2025/4/16 15:50:27
+接收：
+无帧头68
+
+2025/4/16 15:50:54
+接收：
+无帧头68
+
+2025/4/16 15:50:54
+终端5无回复消息！
+
+2025/4/16 15:51:22
+接收：
+无帧头68
+
+2025/4/16 15:51:49
+接收：
+无帧头68
+
+2025/4/16 15:51:49
+终端5无回复消息！
+
+2025/4/16 15:52:17
+接收：
+无帧头68
+
+2025/4/16 15:52:44
+接收：
+无帧头68
+
+2025/4/16 15:52:45
+终端5无回复消息！
+
+2025/4/16 15:53:18
+接收：
+无帧头68
+
+2025/4/16 15:53:45
+接收：
+无帧头68
+
+2025/4/16 15:54:14
+接收：
+无帧头68
+
+2025/4/16 15:54:42
+接收：
+无帧头68
+
+2025/4/16 15:54:42
+对时无回复！
+
+2025/4/16 15:55:10
+接收：
+无帧头68
+
+2025/4/16 15:55:36
+接收：
+无帧头68
+
+2025/4/16 15:55:36
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify()
+
+2025/4/16 16:04:22
+检定出错,错误编号：999－10001　
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 73
+
+2025/4/16 16:09:10
+接收：
+无帧头68
+
+2025/4/16 16:35:22
+加密机连接失败，返回1106
+
+2025/4/16 16:35:42
+接收：
+无帧头68
+
+2025/4/16 16:36:03
+接收：
+无帧头68
+
+2025/4/16 16:48:58
+接收：
+无帧头68
+
+2025/4/16 16:48:58
+接收：
+无帧头68
+
+2025/4/16 16:48:58
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 73
+
+2025/4/16 16:51:59
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 80
+
+2025/4/16 16:54:34
+检定出错,错误编号：999－10001　
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 73
+
+2025/4/16 17:29:55
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:29:55
+标准表初始化失败
+
+2025/4/16 17:29:55
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:29:55
+误差板初始化失败
+
+2025/4/16 17:29:55
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:29:55
+功率源初始化失败
+
+2025/4/16 17:29:55
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:29:55
+多功能板初始化失败
+
+2025/4/16 17:30:17
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:30:17
+标准表初始化失败
+
+2025/4/16 17:30:17
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:30:17
+误差板初始化失败
+
+2025/4/16 17:30:17
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:30:17
+功率源初始化失败
+
+2025/4/16 17:30:17
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”。
+文件名:“D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 669
+
+2025/4/16 17:30:17
+多功能板初始化失败
+
+2025/4/16 18:13:20
+检定出错,错误编号：999－10001　
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 73
+
+2025/4/16 18:15:36
+接收：
+无帧头68
+
+2025/4/16 18:15:41
+接收：
+无帧头68
+
+2025/4/16 18:16:08
+接收：
+无帧头68
+
+2025/4/16 18:16:13
+接收：
+无帧头68
+
+2025/4/16 18:16:24
+加密机连接失败，返回1106
+
+2025/4/16 18:16:45
+接收：
+无帧头68
+
+2025/4/16 18:17:06
+接收：
+无帧头68
+
+2025/4/16 18:17:27
+接收：
+无帧头68
+
+2025/4/16 18:19:12
+接收：
+无帧头68
+
+2025/4/16 18:19:32
+接收：
+无帧头68
+
+2025/4/16 18:34:32
+接收：
+无帧头68
+
+2025/4/16 18:34:37
+接收：
+无帧头68
+
+2025/4/16 18:35:12
+接收：
+无帧头68
+
+2025/4/16 18:35:38
+接收：
+无帧头68
+
+2025/4/16 18:35:53
+检定出错,错误编号：999－10001　
+System.ArgumentNullException: 值不能为 null。
+参数名: String
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify()
+
+2025/4/16 18:42:48
+接收：
+无帧头68
+
+2025/4/16 18:43:09
+接收：
+无帧头68
+
+2025/4/16 18:48:31
+加密机连接失败，返回1106
+
+2025/4/16 18:48:52
+接收：
+无帧头68
+
+2025/4/16 18:49:13
+接收：
+无帧头68
+
+2025/4/16 18:52:20
+接收：
+无帧头68
+
+2025/4/16 18:52:26
+接收：
+无帧头68
+
+2025/4/16 18:53:07
+接收：
+无帧头68
+
+2025/4/16 18:53:27
+接收：
+无帧头68
+
+2025/4/16 18:53:59
+接收：
+无帧头68
+
+2025/4/16 18:54:25
+接收：
+无帧头68
+
+2025/4/16 19:14:02
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【7】
+
+2025/4/16 19:14:06
+误差板第1次联机失败,错误表位:【1】【2】【4】
+
+2025/4/16 19:14:21
+接收：
+无帧头68
+
+2025/4/16 19:14:27
+接收：
+无帧头68
+
+2025/4/16 19:14:41
+接收：
+无帧头68
+
+2025/4/16 19:14:46
+接收：
+无帧头68
+
+2025/4/16 19:15:45
+接收：
+无帧头68
+
+2025/4/16 19:15:50
+接收：
+无帧头68
+
+2025/4/16 19:16:08
+接收：
+无帧头68
+
+2025/4/16 19:16:13
+接收：
+无帧头68
+
+2025/4/16 19:16:28
+接收：
+无帧头68
+
+2025/4/16 19:16:33
+接收：
+无帧头68
+
+2025/4/16 19:19:36
+接收：
+无帧头68
+
+2025/4/16 19:19:41
+接收：
+无帧头68
+
+2025/4/16 19:19:54
+接收：
+无帧头68
+
+2025/4/16 19:19:59
+接收：
+无帧头68
+
+2025/4/16 19:20:14
+接收：
+无帧头68
+
+2025/4/16 19:20:19
+接收：
+无帧头68
+
+2025/4/16 19:24:59
+接收：
+无帧头68
+
+2025/4/16 19:25:20
+接收：
+无帧头68
+

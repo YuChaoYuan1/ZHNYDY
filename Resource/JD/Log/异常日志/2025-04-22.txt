@@ -1,0 +1,449 @@
+2025/4/22 10:03:05
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:05:38
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.FactoryEncryptionFunction698.ConnectDevice(String PutIP, String PutPort, String PutCtime)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 89
+
+2025/4/22 10:05:38
+加密机连接失败，返回-1
+
+2025/4/22 10:07:45
+接收：
+无帧头68
+
+2025/4/22 10:08:06
+接收：
+无帧头68
+
+2025/4/22 10:15:06
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:16:12
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:16:30
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.FactoryEncryptionFunction698.ConnectDevice(String PutIP, String PutPort, String PutCtime)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 89
+
+2025/4/22 10:16:30
+加密机连接失败，返回-1
+
+2025/4/22 10:23:16
+接收：
+无帧头68
+
+2025/4/22 10:23:21
+接收：
+无帧头68
+
+2025/4/22 10:23:22
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.FactoryEncryptionFunction698.ConnectDevice(String PutIP, String PutPort, String PutCtime)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 89
+
+2025/4/22 10:23:22
+加密机连接失败，返回-1
+
+2025/4/22 10:23:44
+接收：
+无帧头68
+
+2025/4/22 10:24:07
+接收：
+无帧头68
+
+2025/4/22 10:24:40
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:24:57
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.FactoryEncryptionFunction698.ConnectDevice(String PutIP, String PutPort, String PutCtime)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 89
+
+2025/4/22 10:24:57
+加密机连接失败，返回-1
+
+2025/4/22 10:42:57
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:47:40
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:57:02
+标准表第1次联机失败
+
+2025/4/22 10:57:06
+标准表联机失败
+
+2025/4/22 10:57:07
+功率源第1次联机失败
+
+2025/4/22 10:57:09
+功率源联机失败
+
+2025/4/22 10:57:09
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 10:57:29
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/22 10:57:35
+误差板第1次联机失败,错误表位:【1】
+
+2025/4/22 10:58:49
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:00:13
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:01:14
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:03:13
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:06:53
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:19:24
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 11:25:35
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:15:37
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:21:21
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:35:31
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:39:13
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:56:00
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:58:32
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 12:59:48
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 13:02:04
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 13:08:13
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 13:12:53
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 13:56:56
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:01:14
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:06:43
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:08:15
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:11:27
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:23:15
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:25:34
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:27:56
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:31:35
+标准表第1次联机失败
+
+2025/4/22 14:31:39
+标准表联机失败
+
+2025/4/22 14:31:40
+功率源第1次联机失败
+
+2025/4/22 14:31:41
+功率源联机失败
+
+2025/4/22 14:31:42
+连接加密机失败【1】无法加载 DLL“EncrypGW\DLL_SERVER_698\SocketApi.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+0
+
+2025/4/22 14:32:02
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/22 14:32:57
+标准表第1次联机失败
+
+2025/4/22 14:33:01
+标准表联机失败
+
+2025/4/22 14:35:12
+标准表第1次联机失败
+
+2025/4/22 18:41:53
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.EncryptionFunction698.Meter_Formal_IdentityAuthentication(Int32 Flag, String PutDiv, StringBuilder OutRand, StringBuilder OutEndata)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 96
+
+2025/4/22 18:41:53
+加密机连接失败，返回-1
+
+2025/4/22 18:42:08
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.EncryptionFunction698.Meter_Formal_IdentityAuthentication(Int32 Flag, String PutDiv, StringBuilder OutRand, StringBuilder OutEndata)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 96
+
+2025/4/22 18:42:08
+加密机连接失败，返回-1
+
+2025/4/22 18:42:26
+接收：
+无帧头68
+
+2025/4/22 18:42:26
+接收：
+无帧头68
+
+2025/4/22 18:42:27
+接收：
+无帧头68
+
+2025/4/22 18:42:27
+接收：
+无帧头68
+
+2025/4/22 18:42:28
+接收：
+无帧头68
+
+2025/4/22 18:42:28
+接收：
+无帧头68
+
+2025/4/22 18:42:29
+接收：
+无帧头68
+
+2025/4/22 18:42:29
+接收：
+无帧头68
+
+2025/4/22 18:42:29
+接收：
+无帧头68
+
+2025/4/22 18:42:29
+接收：
+无帧头68
+
+2025/4/22 18:42:30
+接收：
+无帧头68
+
+2025/4/22 18:42:30
+接收：
+无帧头68
+
+2025/4/22 18:42:30
+对时无回复！
+
+2025/4/22 18:42:31
+接收：
+无帧头68
+
+2025/4/22 18:42:31
+接收：
+无帧头68
+
+2025/4/22 18:42:32
+接收：
+无帧头68
+
+2025/4/22 18:42:32
+接收：
+无帧头68
+
+2025/4/22 18:43:05
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.EncryptionFunction698.Meter_Formal_IdentityAuthentication(Int32 Flag, String PutDiv, StringBuilder OutRand, StringBuilder OutEndata)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 96
+
+2025/4/22 18:43:05
+加密机连接失败，返回-1
+
+2025/4/22 18:44:44
+接收：
+无帧头68
+
+2025/4/22 18:44:44
+接收：
+无帧头68
+
+2025/4/22 18:44:44
+接收：
+无帧头68
+
+2025/4/22 18:44:44
+接收：
+无帧头68
+
+2025/4/22 18:44:45
+接收：
+无帧头68
+
+2025/4/22 18:44:45
+接收：
+无帧头68
+
+2025/4/22 18:44:46
+接收：
+无帧头68
+
+2025/4/22 18:44:46
+接收：
+无帧头68
+
+2025/4/22 18:44:47
+接收：
+无帧头68
+
+2025/4/22 18:44:47
+接收：
+无帧头68
+
+2025/4/22 18:44:48
+接收：
+无帧头68
+
+2025/4/22 18:44:48
+接收：
+无帧头68
+
+2025/4/22 18:44:49
+接收：
+无帧头68
+
+2025/4/22 18:44:49
+接收：
+无帧头68
+
+2025/4/22 18:44:59
+连接加密机失败【2】无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+System.DllNotFoundException: 无法加载 DLL“EncrypGW\DLL_SERVER_698\WinSocketServer.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 LYZD.TerminalProtocol.Encryption.EncryptionFunction698.Meter_Formal_IdentityAuthentication(Int32 Flag, String PutDiv, StringBuilder OutRand, StringBuilder OutEndata)
+   在 LYZD.TerminalProtocol.Encryption.IEncryptionFunction698.ConnectDevice(Boolean[] m_b_TerminalSelect, String PutIP, String PutPort, String PutCtime) 位置 C:\Users\24621\Desktop\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.TerminalProtocol\Encryption\IEncryptionFunction698.cs:行号 96
+
+2025/4/22 18:44:59
+加密机连接失败，返回-1
+
+2025/4/22 18:45:31
+接收：
+无帧头68
+
+2025/4/22 18:45:31
+接收：
+无帧头68
+
+2025/4/22 18:45:31
+接收：
+无帧头68
+
+2025/4/22 18:45:31
+接收：
+无帧头68
+
+2025/4/22 18:45:32
+接收：
+无帧头68
+
+2025/4/22 18:45:32
+接收：
+无帧头68
+
+2025/4/22 18:45:33
+接收：
+无帧头68
+
+2025/4/22 18:45:33
+接收：
+无帧头68
+
+2025/4/22 18:45:34
+接收：
+无帧头68
+
+2025/4/22 18:45:34
+接收：
+无帧头68
+
+2025/4/22 18:45:34
+接收：
+无帧头68
+
+2025/4/22 18:45:34
+接收：
+无帧头68
+
+2025/4/22 18:45:35
+接收：
+无帧头68
+
+2025/4/22 18:45:35
+接收：
+无帧头68
+

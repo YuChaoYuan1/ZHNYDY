@@ -1,0 +1,427 @@
+2025/4/24 8:56:32
+检定出错,错误编号：999－10001　
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 74
+
+2025/4/24 8:59:22
+检定出错,错误编号：999－10001　
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 74
+
+2025/4/24 13:58:44
+接收：
+无帧头68
+
+2025/4/24 13:58:49
+接收：
+无帧头68
+
+2025/4/24 13:59:10
+接收：
+无帧头68
+
+2025/4/24 14:00:33
+检定出错,错误编号：999－10001　
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 LYZD.Verify.ZHNYDY.ControlClass.Verify()
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 74
+
+2025/4/24 14:02:14
+接收：
+无帧头68
+
+2025/4/24 14:02:34
+接收：
+无帧头68
+
+2025/4/24 14:05:14
+接收：
+无帧头68
+
+2025/4/24 14:05:34
+接收：
+无帧头68
+
+2025/4/24 14:08:22
+接收：
+无帧头68
+
+2025/4/24 14:08:43
+接收：
+无帧头68
+
+2025/4/24 14:30:20
+接收：
+无帧头68
+
+2025/4/24 14:30:25
+接收：
+无帧头68
+
+2025/4/24 14:31:21
+接收：
+无帧头68
+
+2025/4/24 14:31:21
+接收：
+无帧头68
+
+2025/4/24 14:31:21
+接收：
+无帧头68
+
+2025/4/24 14:31:21
+接收：
+无帧头68
+
+2025/4/24 14:31:22
+接收：
+无帧头68
+
+2025/4/24 14:31:22
+接收：
+无帧头68
+
+2025/4/24 14:31:22
+对时无回复！
+
+2025/4/24 14:34:23
+接收：
+无帧头68
+
+2025/4/24 14:34:43
+接收：
+无帧头68
+
+2025/4/24 14:37:30
+接收：
+无帧头68
+
+2025/4/24 14:37:51
+接收：
+无帧头68
+
+2025/4/24 15:46:37
+接收：
+无帧头68
+
+2025/4/24 15:46:42
+接收：
+无帧头68
+
+2025/4/24 15:47:03
+接收：
+无帧头68
+
+2025/4/24 15:57:55
+接收：
+无帧头68
+
+2025/4/24 10:12:50
+标准表第1次联机失败
+
+2025/4/24 10:12:53
+标准表联机失败
+
+2025/4/24 10:12:55
+功率源第1次联机失败
+
+2025/4/24 10:12:56
+功率源联机失败
+
+2025/4/24 10:13:30
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 10:13:34
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:13:59
+误差板第1次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:14:03
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:14:43
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:14:58
+误差板第1次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:15:31
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:15:46
+误差板第1次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:21:31
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:21:46
+误差板第1次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 10:34:31
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 10:34:54
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 11:01:53
+误差板第0次联机失败,错误表位:【1】【3】【4】【6】
+
+2025/4/24 11:01:59
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 11:01:59
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 11:01:59
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 11:02:00
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 12:30:47
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:31:11
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:32:46
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:33:09
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:38:51
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:39:14
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:40:08
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:40:31
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:55:39
+功率源第1次联机失败
+
+2025/4/24 12:55:40
+功率源联机失败
+
+2025/4/24 12:56:25
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 12:56:48
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:34:07
+标准表第1次联机失败
+
+2025/4/24 13:34:07
+标准表联机失败
+
+2025/4/24 13:34:08
+功率源第1次联机失败
+
+2025/4/24 13:34:08
+功率源联机失败
+
+2025/4/24 13:34:40
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:35:02
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:35:25
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:35:38
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:54:20
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:54:43
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 13:59:46
+标准表第1次联机失败
+
+2025/4/24 14:00:10
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 14:00:33
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 14:08:44
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 14:28:11
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 14:28:11
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 15:49:07
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 15:49:08
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 16:35:39
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:35:39
+标准表初始化失败
+
+2025/4/24 16:35:39
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:35:39
+误差板初始化失败
+
+2025/4/24 16:35:39
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:35:39
+功率源初始化失败
+
+2025/4/24 16:35:39
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:35:39
+多功能板初始化失败
+
+2025/4/24 16:51:50
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:51:50
+标准表初始化失败
+
+2025/4/24 16:51:50
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:51:50
+误差板初始化失败
+
+2025/4/24 16:51:50
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:51:50
+功率源初始化失败
+
+2025/4/24 16:51:50
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/24 16:51:50
+多功能板初始化失败
+
+2025/4/24 16:54:27
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+
+2025/4/24 16:55:43
+调用设备方法失败!错误代码20001-001:System.Reflection.TargetParameterCountException: 参数计数不匹配。
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value)
+
+2025/4/24 17:01:15
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 17:01:16
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/24 19:15:25
+调用设备方法失败!错误代码20001-001:System.ArgumentException: 类型“System.Int32”的对象无法转换为类型“System.Byte”。
+   在 System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   在 System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   在 System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   在 LYZD.ViewModel.Device.DeviceViewModel.DeviceControl(String deviceName, String functionName, Int32 ID, Object[] value) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 735
+

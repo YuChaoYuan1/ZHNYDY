@@ -1,0 +1,39 @@
+2025-04-25 15:39:24:756
+消息：抄读数据验证
+ 
+2025-04-25 15:39:24:759
+消息：iKeyState = 0
+iOperateMode = 1
+cTESAMNO = 
+cRandHost = 
+cReadData = 
+cMac = 
+cOutData = 
+ ret = 1001
+ 
+2025-04-25 15:39:24:761
+消息：抄读数据验证重发第1次
+ 
+2025-04-25 15:39:26:180
+消息：iKeyState = 0
+iOperateMode = 1
+cTESAMNO = 
+cRandHost = 
+cReadData = 
+cMac = 
+cOutData = 
+ ret = 1001
+ 
+2025-04-25 15:39:26:180
+消息：抄读数据验证重发第2次
+ 
+2025-04-25 15:39:26:180
+消息：iKeyState = 0
+iOperateMode = 1
+cTESAMNO = 
+cRandHost = 
+cReadData = 
+cMac = 
+cOutData = 
+ ret = 1001
+ 

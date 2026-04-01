@@ -1,0 +1,47 @@
+2025/4/11 16:00:31
+接收：
+无帧头68
+
+2025/4/11 16:00:31
+接收：
+无帧头68
+
+2025/4/11 16:02:41
+接收：
+无帧头68
+
+2025/4/11 16:03:01
+接收：
+无帧头68
+
+2025/4/11 16:03:01
+终端5无回复消息！
+
+2025/4/11 16:03:14
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 79
+
+2025/4/11 16:07:37
+接收：
+无帧头68
+
+2025/4/11 16:11:02
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 79
+
+2025/4/11 16:13:21
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 79
+
+2025/4/11 16:15:00
+检定出错,错误编号：999－10001　
+System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 LYZD.ViewModel.CheckController.VerifyBase.DoVerify() 位置 D:\LY_Terminal_Code_OfficialVersion\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\CheckController\VerifyBase.cs:行号 79
+

@@ -1,0 +1,122 @@
+2025/4/30 9:21:05
+接收：
+无帧头68
+
+2025/4/30 9:21:25
+接收：
+无帧头68
+
+2025/4/30 9:21:25
+终端5无回复消息！
+
+2025/4/30 11:14:58
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH311.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/30 11:14:58
+标准表初始化失败
+
+2025/4/30 11:14:58
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH1113.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/30 11:14:58
+误差板初始化失败
+
+2025/4/30 11:14:58
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\ZH3001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/30 11:14:58
+功率源初始化失败
+
+2025/4/30 11:14:58
+调用设备方法失败!错误代码20001-002:
+System.IO.FileNotFoundException: 未能找到文件“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”。
+文件名:“D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\Resource\Devices\LY2001.dll”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 LYZD.ViewModel.Device.DeviceViewModel.GetReflexObject(String deviceName) 位置 D:\新建文件夹 (3)\新建文件夹 (3)\LY_Terminal_Code_OfficialVersion\LYZD.WPF\LYZD.ViewModel\Device\DeviceViewModel.cs:行号 673
+
+2025/4/30 11:14:58
+多功能板初始化失败
+
+2025/4/30 11:23:59
+标准表第1次联机失败
+
+2025/4/30 11:24:03
+标准表联机失败
+
+2025/4/30 11:24:04
+功率源第1次联机失败
+
+2025/4/30 11:24:05
+功率源联机失败
+
+2025/4/30 11:24:26
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/30 11:24:27
+标准表第1次联机失败
+
+2025/4/30 11:24:31
+标准表联机失败
+
+2025/4/30 11:24:32
+功率源第1次联机失败
+
+2025/4/30 11:24:33
+功率源联机失败
+
+2025/4/30 11:24:44
+标准表第1次联机失败
+
+2025/4/30 11:24:47
+标准表联机失败
+
+2025/4/30 11:25:05
+标准表第1次联机失败
+
+2025/4/30 11:25:05
+误差板第1次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/30 11:25:08
+标准表联机失败
+
+2025/4/30 11:25:31
+标准表第1次联机失败
+
+2025/4/30 11:25:34
+标准表联机失败
+
+2025/4/30 11:25:47
+标准表第1次联机失败
+
+2025/4/30 11:25:51
+标准表联机失败
+
+2025/4/30 11:26:04
+误差板第0次联机失败,错误表位:【1】【2】【3】【4】【5】【6】【7】
+
+2025/4/30 11:26:10
+标准表第1次联机失败
+
+2025/4/30 11:26:13
+标准表联机失败
+
